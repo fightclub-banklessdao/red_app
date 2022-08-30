@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x06f68F90F95826Ac3f9806B1Cd66D3CaFe13a752",
+  "SCAN_LINK": "https://polygonscan.com/token/0x06f68F90F95826Ac3f9806B1Cd66D3CaFe13a752",
+  "NETWORK": {
+    "NAME": "polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Fight Club Red Glove",
+  "SYMBOL": "FCRG",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 200000000000000000000,
+  "DISPLAY_COST": 200,
+
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fight-club-red-glove",
+  "SHOW_BACKGROUND": true
+}
